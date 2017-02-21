@@ -1,12 +1,15 @@
+# creates variables and assigns integers to them
 people = 30
 cars = 30
 trucks = 30
 
-
+# evaluates whether cars is greater than people
 if cars > people
   puts "We should take the cars."
+# evaluates whether cars is less than people
 elsif cars < people
   puts "We should not take the cars."
+# gives instructions if neither is the case
 else
   puts "We can't decide."
 end
