@@ -1,0 +1,19 @@
+characters = ['Mario', 'Luigi', 'Zelda', 'Link', 'Wario', 'Yoshi']
+
+1. Who is at 1?
+Luigi is at 1 and Luigi is the second character.
+
+2. Who is at 4?
+Wario is at 4 and Wario is the fifth character.
+
+3. Who is at 0?
+Mario is at 0 and Mario is the first character.
+
+4. Who is sixth?
+Yoshi is the sixth character and is at 5.
+
+5. Who is the third?
+Zelda is the third character and is at 2.
+
+6. Who is the fourth?
+Link is the fourth character and is at 3.

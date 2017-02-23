@@ -1,0 +1,19 @@
+EXERCISE:
+animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+1. The animal at 1. 
+The animal at 1 is a ruby and is the second (2nd) animal.
+2. The third (3rd) animal.
+The third (3rd) animal is a peacock and is at 2.
+3. The first (1st) animal.
+The first (1st) animal is a bear and is at 0.
+4. The animal at 3.
+The animal at 3 is the kangaroo and is the fourth (4th) animal.
+5. The fifth (5th) animal.
+The fifth (5th) animal is the whale and is at 4.
+6. The animal at 2.
+The animal at 2 is the peacock and is the third (3rd) animal.
+7. The sixth (6th) animal.
+The sixth (6th) animal is the platypus and is at 5.
+8. The animal at 4.
+The animal at 4 is a whale and is the fifth (5th) animal.
