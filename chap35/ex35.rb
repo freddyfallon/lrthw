@@ -17,6 +17,7 @@ def gold_room
   else
     dead("You greedy bastard")
   end
+
 end
 
 def bear_room
@@ -45,6 +46,7 @@ def bear_room
       bear_room
     end
   end
+
 end
 def chthulu_room
   puts "Here you see the great evil Chthulu."
@@ -61,6 +63,7 @@ def chthulu_room
   else
     chthulu_room
   end
+
 end
 
 def pizza_room
@@ -79,6 +82,7 @@ def pizza_room
   else puts "Let's try it again."
     pizza_room
   end
+
 end
 
 def dead(why)
@@ -104,6 +108,7 @@ def start
     puts "Let's try that again"
     start
   end
+
 end
 
 start
