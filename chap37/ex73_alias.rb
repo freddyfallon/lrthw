@@ -3,7 +3,7 @@ class Microwave
   def on
     puts "The microwave is on"
   end
-
+# here is where the renaming happens
   alias :start :on
 end
 
