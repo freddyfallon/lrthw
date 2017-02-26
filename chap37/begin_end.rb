@@ -1,3 +1,4 @@
+# This is kind of like a while loop
 x = 0
 begin
 x += 2
